@@ -10,9 +10,9 @@ Welcome to my portfolio! This project showcases my skills, projects, and a littl
   
 
 ## Demo
-![Portfolio Demo](https://65d7bc5bb65ad8455643e1b4--chic-lollipop-cd173a.netlify.app/)
+![Portfolio Demo]
 
-Check out the live demo: [My Portfolio](https://your-portfolio-url.com)
+Check out the live demo: [My Portfolio](https://65d7bc5bb65ad8455643e1b4--chic-lollipop-cd173a.netlify.app/)
 
 ## Technologies
 - React
