@@ -7,11 +7,10 @@ Welcome to my portfolio! This project showcases my skills, projects, and a littl
 - [Technologies](#technologies)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Contact](#contact)
+  
 
 ## Demo
-![Portfolio Demo](./public/demo.gif)
+![Portfolio Demo](https://65d7bc5bb65ad8455643e1b4--chic-lollipop-cd173a.netlify.app/)
 
 Check out the live demo: [My Portfolio](https://your-portfolio-url.com)
 
