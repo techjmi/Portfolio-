@@ -17,7 +17,7 @@ Check out the live demo: [My Portfolio](https://65d7bc5bb65ad8455643e1b4--chic-l
 ## Technologies
 - React
 - Bootstrap
-- Other technologies used in your project
+
 
 ## Features
 - Responsive design with Bootstrap
@@ -28,7 +28,7 @@ Check out the live demo: [My Portfolio](https://65d7bc5bb65ad8455643e1b4--chic-l
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/techjmi/Portfolio-.git
    cd your-portfolio
 
 # React + Vite
